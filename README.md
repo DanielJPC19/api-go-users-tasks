@@ -35,3 +35,7 @@ Creamos el ```.env``` definiendo la dirección hacia MYSQL, usando el siguiente 
 ```
 
 Donde, el **usuario**, la **contraseña** y la **base de datos** son las ya definidas en nuestro ```docker-compose.yml```. Adicionalmente, dado que estamos ejecutando la aplicación de Go de manera local y no haciendole un contenedor, pondremos en la **conexión/condenedor/ip** *localhost*.
+
+### Código
+
+El resto se encontrará en el código.
